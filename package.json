@@ -1,0 +1,20 @@
+{
+  "name": "cyber-daily",
+  "type": "module",
+  "scripts": {
+    "start": "tsx ./index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.28",
+    "tsx": "^4.7.1",
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "graphql": "^16.8.1",
+    "graphql-request": "^6.1.0",
+    "https-proxy-agent": "^7.0.4",
+    "node-fetch": "^3.3.2",
+    "siwe": "^2.1.4",
+    "viem": "^2.8.11"
+  }
+}
